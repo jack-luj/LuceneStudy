@@ -59,8 +59,8 @@ import org.apache.lucene.store.FSDirectory;
                         create = false;
                       }
                 }*/
-                  indexPath="C:\\Users\\incar\\Desktop\\files";
-                  docsPath="C:\\Users\\incar\\Desktop\\files\\doc";
+                  indexPath="C:\\Users\\incar\\Desktop\\files\\txt\\index";
+                  docsPath="C:\\Users\\incar\\Desktop\\files\\txt";
                   create=true;
 
             if (docsPath == null) {
